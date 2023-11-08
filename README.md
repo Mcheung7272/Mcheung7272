@@ -3,7 +3,7 @@ Hi 👋 My name is Matthew Cheung
 
 Software Engineer
 -----------------
-* 🌍  I'm based in New York
+* 🌍  I'm based in McLean, VA
 * ✉️  You can contact me at [mcheung7272@gmail.com](mailto:mcheung7272@gmail.com)
 
 ### Skills
